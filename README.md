@@ -9,10 +9,12 @@ Steps to run the application
 5. If the browser does not open up automatically after successful completion of step 4, then paste 'http://localhost:3000/' in the browser.
 
 
+
 Existing user
 
 email: user1@example.com
 password: 123456
+
 
 You may login with existing user or register new user and continue.
 
