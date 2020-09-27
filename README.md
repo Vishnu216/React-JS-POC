@@ -12,7 +12,7 @@ Steps to run the application
 
 Existing user
 
-email: user1@example.com
+email: user1@example.com, 
 password: 123456
 
 
